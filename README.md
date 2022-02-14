@@ -3,11 +3,12 @@
 
 
 
-<h3 align="center">- 🔭 I’m currently working at **HDN Digital as React Developer**
+
+- 🔭 I’m currently working at **HDN Digital as React Developer**
 
 - 🌱 I’m currently learning **React, CSS, HTML5 and SCSS.**
 
-- ⚡ Fun fact **I usually play a lot of games but i'm not good at any of them.**</h3>
+- ⚡ Fun fact **I usually play a lot of games but i'm not good at any of them.**
 
 
 
