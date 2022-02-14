@@ -1,4 +1,5 @@
 <h1 align="center">Hi, how's going? my name is Matheus Freitas.</h1>
+<br>
 <h3 align="center">A student and frontend developer from Volta Redonda - Rio de Janeiro - BR.</h3>
 <br>
 <br>
