@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-- 🔭 I’m currently working at **HDN Digital as React Developer.**
+- 🔭 I’m currently working at HDN Digital as React Developer.
 
 - 🌱 I’m currently learning **React, CSS, HTML5 and SCSS.**
 
